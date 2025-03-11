@@ -170,7 +170,7 @@ end
 
 
 ASH["3"].MouseButton1Click:Connect(function()
-    setclipboard("dsc.gg/thanhub")
+    setclipboard("discord.gg/thanhub")
 end)
 
 
